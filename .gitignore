@@ -7,3 +7,4 @@ myvenv/
 *.log
 *.json
 *.wandb
+*.iml
