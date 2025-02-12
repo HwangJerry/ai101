@@ -3,3 +3,7 @@ data/
 myvenv/
 .env
 *.txt
+*.xml
+*.log
+*.json
+*.wandb
